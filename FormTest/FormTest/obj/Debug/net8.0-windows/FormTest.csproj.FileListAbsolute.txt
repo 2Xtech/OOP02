@@ -1,0 +1,17 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\bin\Debug\net8.0-windows\FormTest.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\bin\Debug\net8.0-windows\FormTest.deps.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\bin\Debug\net8.0-windows\FormTest.runtimeconfig.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\bin\Debug\net8.0-windows\FormTest.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\bin\Debug\net8.0-windows\FormTest.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.AssemblyInfoInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.AssemblyInfo.cs
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.sourcelink.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\refint\FormTest.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\FormTest.genruntimeconfig.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\FormTest\FormTest\obj\Debug\net8.0-windows\ref\FormTest.dll
