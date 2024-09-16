@@ -1,0 +1,17 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\bin\Debug\net8.0-windows\Lab1_Subeet_Singh.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\bin\Debug\net8.0-windows\Lab1_Subeet_Singh.deps.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\bin\Debug\net8.0-windows\Lab1_Subeet_Singh.runtimeconfig.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\bin\Debug\net8.0-windows\Lab1_Subeet_Singh.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\bin\Debug\net8.0-windows\Lab1_Subeet_Singh.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.AssemblyInfoInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.AssemblyInfo.cs
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.sourcelink.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\refint\Lab1_Subeet_Singh.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.genruntimeconfig.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\ref\Lab1_Subeet_Singh.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab1_Subeet_Singh\Lab1_Subeet_Singh\obj\Debug\net8.0-windows\Lab1_Subeet_Singh.FormDogYearsConverter.resources

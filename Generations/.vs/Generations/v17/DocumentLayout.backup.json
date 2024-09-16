@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\Generations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B718043F-BDCA-477C-B90A-A3B3560C9A3A}|Generations\\Generations.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\generations\\generations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B718043F-BDCA-477C-B90A-A3B3560C9A3A}|Generations\\Generations.csproj|solutionrelative:generations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718043F-BDCA-477C-B90A-A3B3560C9A3A}|Generations\\Generations.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\generations\\generations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718043F-BDCA-477C-B90A-A3B3560C9A3A}|Generations\\Generations.csproj|solutionrelative:generations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\Generations\\Generations\\Form1.cs",
+              "RelativeDocumentMoniker": "Generations\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\Generations\\Generations\\Form1.cs",
+              "RelativeToolTip": "Generations\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T18:42:44.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\Generations\\Generations\\Form1.cs",
+              "RelativeDocumentMoniker": "Generations\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\Generations\\Generations\\Form1.cs [Design]",
+              "RelativeToolTip": "Generations\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T20:22:42.614Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
