@@ -1,8 +1,3 @@
-C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.exe
-C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.deps.json
-C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.runtimeconfig.json
-C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.dll
-C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.pdb
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.Form1.resources
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.Properties.Resources.resources
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.csproj.GenerateResource.cache
@@ -11,6 +6,11 @@ C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.AssemblyInfo.cs
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.csproj.CoreCompileInputs.cache
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.sourcelink.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.deps.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.runtimeconfig.json
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.dll
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\bin\Debug\net8.0-windows\Generations.pdb
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.dll
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\refint\Generations.dll
 C:\Users\Subeet\source\repos\2Xtech\OOP02\Generations\Generations\obj\Debug\net8.0-windows\Generations.pdb
