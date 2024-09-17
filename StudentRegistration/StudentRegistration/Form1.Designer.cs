@@ -35,11 +35,11 @@
             labelStudentNumber = new Label();
             labelName = new Label();
             maskedTextBoxStudentNumber = new MaskedTextBox();
-            comboBoxProgram = new ComboBox();
             numericUpDownDurationSemester = new NumericUpDown();
             textBoxName = new TextBox();
             labelProgram = new Label();
             labelDurationSemester = new Label();
+            comboBoxProgram = new ComboBox();
             buttonRegister = new Button();
             toolTipTips = new ToolTip(components);
             toolTipError = new ToolTip(components);
@@ -54,6 +54,8 @@
             // splitContainer1
             // 
             splitContainer1.Dock = DockStyle.Fill;
+            splitContainer1.FixedPanel = FixedPanel.Panel2;
+            splitContainer1.IsSplitterFixed = true;
             splitContainer1.Location = new Point(0, 0);
             splitContainer1.Name = "splitContainer1";
             splitContainer1.Orientation = Orientation.Horizontal;
@@ -66,8 +68,8 @@
             // 
             splitContainer1.Panel2.Controls.Add(buttonRegister);
             splitContainer1.Panel2.Paint += splitContainer1_Panel2_Paint;
-            splitContainer1.Size = new Size(895, 507);
-            splitContainer1.SplitterDistance = 333;
+            splitContainer1.Size = new Size(791, 385);
+            splitContainer1.SplitterDistance = 254;
             splitContainer1.TabIndex = 0;
             // 
             // tableLayoutPanel1
@@ -79,11 +81,11 @@
             tableLayoutPanel1.Controls.Add(labelStudentNumber, 0, 0);
             tableLayoutPanel1.Controls.Add(labelName, 0, 1);
             tableLayoutPanel1.Controls.Add(maskedTextBoxStudentNumber, 1, 0);
-            tableLayoutPanel1.Controls.Add(comboBoxProgram, 1, 2);
             tableLayoutPanel1.Controls.Add(numericUpDownDurationSemester, 1, 3);
             tableLayoutPanel1.Controls.Add(textBoxName, 1, 1);
             tableLayoutPanel1.Controls.Add(labelProgram, 0, 2);
             tableLayoutPanel1.Controls.Add(labelDurationSemester, 0, 3);
+            tableLayoutPanel1.Controls.Add(comboBoxProgram, 1, 2);
             tableLayoutPanel1.Dock = DockStyle.Fill;
             tableLayoutPanel1.Font = new Font("Segoe UI Semibold", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             tableLayoutPanel1.Location = new Point(0, 0);
@@ -93,14 +95,14 @@
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 24.87406F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 23.3082714F));
             tableLayoutPanel1.RowStyles.Add(new RowStyle(SizeType.Percent, 27.0676689F));
-            tableLayoutPanel1.Size = new Size(895, 333);
+            tableLayoutPanel1.Size = new Size(791, 254);
             tableLayoutPanel1.TabIndex = 1;
             // 
             // labelStudentNumber
             // 
             labelStudentNumber.Anchor = AnchorStyles.Right;
             labelStudentNumber.AutoSize = true;
-            labelStudentNumber.Location = new Point(209, 22);
+            labelStudentNumber.Location = new Point(157, 12);
             labelStudentNumber.Name = "labelStudentNumber";
             labelStudentNumber.Size = new Size(235, 38);
             labelStudentNumber.TabIndex = 0;
@@ -110,7 +112,7 @@
             // 
             labelName.Anchor = AnchorStyles.Right;
             labelName.AutoSize = true;
-            labelName.Location = new Point(344, 104);
+            labelName.Location = new Point(292, 75);
             labelName.Name = "labelName";
             labelName.Size = new Size(100, 38);
             labelName.TabIndex = 1;
@@ -119,56 +121,43 @@
             // maskedTextBoxStudentNumber
             // 
             maskedTextBoxStudentNumber.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            maskedTextBoxStudentNumber.Location = new Point(450, 19);
+            maskedTextBoxStudentNumber.Location = new Point(398, 10);
             maskedTextBoxStudentNumber.Mask = "\\1\\0\\0000000";
             maskedTextBoxStudentNumber.Name = "maskedTextBoxStudentNumber";
-            maskedTextBoxStudentNumber.Size = new Size(442, 43);
-            maskedTextBoxStudentNumber.TabIndex = 4;
+            maskedTextBoxStudentNumber.Size = new Size(390, 43);
+            maskedTextBoxStudentNumber.TabIndex = 1;
             toolTipTips.SetToolTip(maskedTextBoxStudentNumber, "Your 9 digit student number");
             maskedTextBoxStudentNumber.ValidatingType = typeof(DateTime);
             maskedTextBoxStudentNumber.MaskInputRejected += maskedTextBox1_MaskInputRejected;
-            // 
-            // comboBoxProgram
-            // 
-            comboBoxProgram.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            comboBoxProgram.DropDownStyle = ComboBoxStyle.DropDownList;
-            comboBoxProgram.FormattingEnabled = true;
-            comboBoxProgram.Items.AddRange(new object[] { "Computer Programming", "Computer Systems", "Game Development" });
-            comboBoxProgram.Location = new Point(450, 188);
-            comboBoxProgram.Name = "comboBoxProgram";
-            comboBoxProgram.Size = new Size(442, 45);
-            comboBoxProgram.TabIndex = 6;
-            toolTipTips.SetToolTip(comboBoxProgram, "program you're enrolled in");
-            comboBoxProgram.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // numericUpDownDurationSemester
             // 
             numericUpDownDurationSemester.Anchor = AnchorStyles.Left;
             numericUpDownDurationSemester.AutoSize = true;
-            numericUpDownDurationSemester.Location = new Point(450, 265);
+            numericUpDownDurationSemester.Location = new Point(398, 198);
             numericUpDownDurationSemester.Maximum = new decimal(new int[] { 10, 0, 0, 0 });
             numericUpDownDurationSemester.Minimum = new decimal(new int[] { 1, 0, 0, 0 });
             numericUpDownDurationSemester.Name = "numericUpDownDurationSemester";
             numericUpDownDurationSemester.ReadOnly = true;
             numericUpDownDurationSemester.Size = new Size(69, 43);
-            numericUpDownDurationSemester.TabIndex = 7;
+            numericUpDownDurationSemester.TabIndex = 4;
             toolTipTips.SetToolTip(numericUpDownDurationSemester, "select how many semesters is your program");
             numericUpDownDurationSemester.Value = new decimal(new int[] { 1, 0, 0, 0 });
             // 
             // textBoxName
             // 
             textBoxName.Anchor = AnchorStyles.Left | AnchorStyles.Right;
-            textBoxName.Location = new Point(450, 101);
+            textBoxName.Location = new Point(398, 73);
             textBoxName.Name = "textBoxName";
-            textBoxName.Size = new Size(442, 43);
-            textBoxName.TabIndex = 8;
+            textBoxName.Size = new Size(390, 43);
+            textBoxName.TabIndex = 2;
             toolTipTips.SetToolTip(textBoxName, "Your Name");
             // 
             // labelProgram
             // 
             labelProgram.Anchor = AnchorStyles.Right;
             labelProgram.AutoSize = true;
-            labelProgram.Location = new Point(310, 183);
+            labelProgram.Location = new Point(258, 136);
             labelProgram.Name = "labelProgram";
             labelProgram.Size = new Size(134, 38);
             labelProgram.TabIndex = 2;
@@ -178,21 +167,34 @@
             // 
             labelDurationSemester.Anchor = AnchorStyles.Right;
             labelDurationSemester.AutoSize = true;
-            labelDurationSemester.Location = new Point(152, 268);
+            labelDurationSemester.Location = new Point(100, 200);
             labelDurationSemester.Name = "labelDurationSemester";
             labelDurationSemester.Size = new Size(292, 38);
             labelDurationSemester.TabIndex = 3;
             labelDurationSemester.Text = "Duration in Semester:";
+            // 
+            // comboBoxProgram
+            // 
+            comboBoxProgram.Anchor = AnchorStyles.Left | AnchorStyles.Right;
+            comboBoxProgram.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBoxProgram.FormattingEnabled = true;
+            comboBoxProgram.Items.AddRange(new object[] { "Computer Programming", "Computer Systems", "Game Development" });
+            comboBoxProgram.Location = new Point(398, 141);
+            comboBoxProgram.Name = "comboBoxProgram";
+            comboBoxProgram.Size = new Size(390, 45);
+            comboBoxProgram.TabIndex = 3;
+            toolTipTips.SetToolTip(comboBoxProgram, "program you're enrolled in");
+            comboBoxProgram.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // buttonRegister
             // 
             buttonRegister.Anchor = AnchorStyles.None;
             buttonRegister.AutoSize = true;
             buttonRegister.Font = new Font("Segoe UI", 19.8000011F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            buttonRegister.Location = new Point(344, 62);
+            buttonRegister.Location = new Point(292, 40);
             buttonRegister.Name = "buttonRegister";
             buttonRegister.Size = new Size(160, 56);
-            buttonRegister.TabIndex = 0;
+            buttonRegister.TabIndex = 5;
             buttonRegister.Text = "Register";
             toolTipTips.SetToolTip(buttonRegister, "Click to register!");
             buttonRegister.UseVisualStyleBackColor = true;
@@ -206,9 +208,11 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(895, 507);
+            ClientSize = new Size(791, 385);
             Controls.Add(splitContainer1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
+            MaximizeBox = false;
             Name = "StudentRegistrationForm";
             Text = "SubeetSingh-ICE1";
             splitContainer1.Panel1.ResumeLayout(false);

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StudentRegistration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\studentregistration\\studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\studentregistration\\studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\studentregistration\\studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4655499C-8CEB-4843-93D4-EA13E194EEFE}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,21 +21,25 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StudentRegistration\\StudentRegistration\\Form1.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Form1.cs",
               "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StudentRegistration\\StudentRegistration\\Form1.cs",
               "RelativeToolTip": "StudentRegistration\\Form1.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwvz0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAACwAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T15:48:59.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StudentRegistration\\StudentRegistration\\Form1.cs",
               "RelativeDocumentMoniker": "StudentRegistration\\Form1.cs",

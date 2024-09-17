@@ -36,7 +36,15 @@ namespace StudentRegistration
         {
 
         }
-        //
+        /*Summary
+         *Prompt the user to enter their student details
+         *Student Number, Name, Program, Duration of the Program
+         *
+         *validate the fields and display errors
+         *
+         *if all the fields are valid then display the student information using message box
+         *
+         */
         private void buttonRegister_Click(object sender, EventArgs e)
         {
             //Use tooltip to display errors

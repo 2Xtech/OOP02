@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             panel1 = new Panel();
             panel2 = new Panel();
@@ -39,6 +40,7 @@
             buttonClear = new Button();
             dateTimePickerBirthDate = new DateTimePicker();
             labelBirthdate = new Label();
+            toolTip1 = new ToolTip(components);
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBoxGeneration).BeginInit();
@@ -119,6 +121,7 @@
             buttonShowResult.Size = new Size(170, 40);
             buttonShowResult.TabIndex = 3;
             buttonShowResult.Text = "Show Result";
+            toolTip1.SetToolTip(buttonShowResult, "Click to display the results");
             buttonShowResult.UseVisualStyleBackColor = true;
             buttonShowResult.Click += buttonShowResult_Click;
             // 
@@ -129,8 +132,9 @@
             buttonClear.Size = new Size(114, 40);
             buttonClear.TabIndex = 2;
             buttonClear.Text = "Clear";
+            toolTip1.SetToolTip(buttonClear, "Click to reset the date");
             buttonClear.UseVisualStyleBackColor = true;
-            buttonClear.Click += button1_Click;
+            buttonClear.Click += buttonClear_Click;
             // 
             // dateTimePickerBirthDate
             // 
@@ -140,6 +144,7 @@
             dateTimePickerBirthDate.Name = "dateTimePickerBirthDate";
             dateTimePickerBirthDate.Size = new Size(433, 35);
             dateTimePickerBirthDate.TabIndex = 1;
+            toolTip1.SetToolTip(dateTimePickerBirthDate, "pick your birthdate");
             dateTimePickerBirthDate.Value = new DateTime(2024, 9, 16, 0, 0, 0, 0);
             // 
             // labelBirthdate
@@ -158,6 +163,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(458, 524);
             Controls.Add(panel1);
+            FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Form1";
@@ -182,5 +188,6 @@
         private Label labelGenerationName;
         private Label labelGen;
         private Button buttonShowResult;
+        private ToolTip toolTip1;
     }
 }
