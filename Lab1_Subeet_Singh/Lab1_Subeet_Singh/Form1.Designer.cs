@@ -31,6 +31,10 @@
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormDogYearsConverter));
             panel1 = new Panel();
+            panelPicture = new Panel();
+            pictureBoxDog = new PictureBox();
+            labelResultText = new Label();
+            buttonReset = new Button();
             buttonCalculate = new Button();
             textBoxDogAgeDogYears = new TextBox();
             numericUpDownDogAgeHumanYears = new NumericUpDown();
@@ -38,13 +42,15 @@
             labelDogAgeHumanYears = new Label();
             toolTipTips = new ToolTip(components);
             toolTipError = new ToolTip(components);
-            buttonReset = new Button();
             panel1.SuspendLayout();
+            panelPicture.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxDog).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownDogAgeHumanYears).BeginInit();
             SuspendLayout();
             // 
             // panel1
             // 
+            panel1.Controls.Add(panelPicture);
             panel1.Controls.Add(buttonReset);
             panel1.Controls.Add(buttonCalculate);
             panel1.Controls.Add(textBoxDogAgeDogYears);
@@ -55,8 +61,49 @@
             panel1.Font = new Font("Calibri", 18F, FontStyle.Regular, GraphicsUnit.Point, 0);
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
-            panel1.Size = new Size(469, 236);
+            panel1.Size = new Size(469, 424);
             panel1.TabIndex = 2;
+            // 
+            // panelPicture
+            // 
+            panelPicture.Controls.Add(pictureBoxDog);
+            panelPicture.Controls.Add(labelResultText);
+            panelPicture.Dock = DockStyle.Bottom;
+            panelPicture.Location = new Point(0, 222);
+            panelPicture.Name = "panelPicture";
+            panelPicture.Size = new Size(469, 202);
+            panelPicture.TabIndex = 7;
+            // 
+            // pictureBoxDog
+            // 
+            pictureBoxDog.Dock = DockStyle.Bottom;
+            pictureBoxDog.Location = new Point(0, 51);
+            pictureBoxDog.Name = "pictureBoxDog";
+            pictureBoxDog.Size = new Size(469, 151);
+            pictureBoxDog.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBoxDog.TabIndex = 1;
+            pictureBoxDog.TabStop = false;
+            // 
+            // labelResultText
+            // 
+            labelResultText.AutoEllipsis = true;
+            labelResultText.AutoSize = true;
+            labelResultText.Dock = DockStyle.Top;
+            labelResultText.Location = new Point(0, 0);
+            labelResultText.Name = "labelResultText";
+            labelResultText.Size = new Size(0, 37);
+            labelResultText.TabIndex = 0;
+            labelResultText.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // buttonReset
+            // 
+            buttonReset.Location = new Point(34, 164);
+            buttonReset.Name = "buttonReset";
+            buttonReset.Size = new Size(109, 52);
+            buttonReset.TabIndex = 6;
+            buttonReset.Text = "Reset";
+            buttonReset.UseVisualStyleBackColor = true;
+            buttonReset.Click += buttonReset_Click;
             // 
             // buttonCalculate
             // 
@@ -106,27 +153,20 @@
             labelDogAgeHumanYears.TabIndex = 0;
             labelDogAgeHumanYears.Text = "Dog age in human years:";
             // 
-            // buttonReset
-            // 
-            buttonReset.Location = new Point(34, 164);
-            buttonReset.Name = "buttonReset";
-            buttonReset.Size = new Size(109, 52);
-            buttonReset.TabIndex = 6;
-            buttonReset.Text = "Reset";
-            buttonReset.UseVisualStyleBackColor = true;
-            buttonReset.Click += buttonReset_Click;
-            // 
             // FormDogYearsConverter
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(469, 236);
+            ClientSize = new Size(469, 424);
             Controls.Add(panel1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "FormDogYearsConverter";
             Text = "Dog Age Converter - Subeet Singh";
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
+            panelPicture.ResumeLayout(false);
+            panelPicture.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxDog).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDownDogAgeHumanYears).EndInit();
             ResumeLayout(false);
         }
@@ -142,5 +182,8 @@
         private ToolTip toolTipTips;
         private ToolTip toolTipError;
         private Button buttonReset;
+        private Panel panelPicture;
+        private Label labelResultText;
+        private PictureBox pictureBoxDog;
     }
 }

@@ -31,6 +31,32 @@ namespace Lab1_Subeet_Singh
                 }
                 //display the result in the textbox by updating the text after converting it to string
                 textBoxDogAgeDogYears.Text = dogAgeDogYears.ToString();
+
+                // display the picture and the text based on the age of the dog
+                if (dogAgeHumanYears <= 1)
+                {
+                    // if the age is less than or equal to 1
+                    // change the text to "Your Dog is still a puppy!!!"
+                    // change the image to an image of a puppy
+                    labelResultText.Text = "Your Dog is still a puppy!!!";
+                    pictureBoxDog.Image = Properties.Resources.Puppy.ToBitmap();
+                }
+                else if (dogAgeHumanYears <= 7) 
+                {
+                    // if the age is between 1 and 7
+                    // change the text to "Your Dog is fully grown!!!"
+                    // change the image to an image of a fully grown dog
+                    labelResultText.Text = "Your Dog is fully grown!!!";
+                    pictureBoxDog.Image = Properties.Resources.FullyGrownDog.ToBitmap();
+                }
+                else
+                {
+                    // if the age is more than 7
+                    // change the text to "Your Dog is a top G now!!!"
+                    // change the image to an image of an elder dog
+                    labelResultText.Text = "Your Dog's a top G now!!!";
+                    pictureBoxDog.Image = Properties.Resources.ElderDog.ToBitmap();
+                }
             }
             else
             {
@@ -46,6 +72,8 @@ namespace Lab1_Subeet_Singh
             textBoxDogAgeDogYears.Clear();
             //set the numericUpDown value to 0
             numericUpDownDogAgeHumanYears.Value = 0;
+            //Hide the error tooltip
+            toolTipError.Hide(numericUpDownDogAgeHumanYears);
         }
     }
 }

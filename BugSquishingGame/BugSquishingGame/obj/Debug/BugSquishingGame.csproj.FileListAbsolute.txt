@@ -1,0 +1,10 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\bin\Debug\BugSquishingGame.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\bin\Debug\BugSquishingGame.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\bin\Debug\BugSquishingGame.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\BugSquishingGame\BugSquishingGame\obj\Debug\BugSquishingGame.pdb
