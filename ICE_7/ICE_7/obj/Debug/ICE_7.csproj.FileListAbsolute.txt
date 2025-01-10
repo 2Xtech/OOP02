@@ -1,0 +1,11 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\bin\Debug\ICE_7.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\bin\Debug\ICE_7.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\bin\Debug\ICE_7.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_7\ICE_7\obj\Debug\ICE_7.AddBurger.resources

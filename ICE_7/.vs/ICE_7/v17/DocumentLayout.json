@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ice_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|solutionrelative:ice_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\ice_7\\ice_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|solutionrelative:ice_7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ice_7\\addburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|solutionrelative:ice_7\\addburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ice_7\\addburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|solutionrelative:ice_7\\addburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ice_7\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05D596B-811C-4F51-B80F-F9E37DBC9BC6}|ICE_7\\ICE_7.csproj|solutionrelative:ice_7\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBurger.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\AddBurger.cs",
+              "RelativeDocumentMoniker": "ICE_7\\AddBurger.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\AddBurger.cs",
+              "RelativeToolTip": "ICE_7\\AddBurger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:11:09.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Form1.cs",
+              "RelativeDocumentMoniker": "ICE_7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Form1.cs",
+              "RelativeToolTip": "ICE_7\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:04:21.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Burger.cs",
+              "RelativeDocumentMoniker": "ICE_7\\Burger.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Burger.cs",
+              "RelativeToolTip": "ICE_7\\Burger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:26:05.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Form1.cs",
+              "RelativeDocumentMoniker": "ICE_7\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\Form1.cs [Design]",
+              "RelativeToolTip": "ICE_7\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:22:01.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddBurger.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\AddBurger.cs",
+              "RelativeDocumentMoniker": "ICE_7\\AddBurger.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\ICE_7\\ICE_7\\AddBurger.cs [Design]",
+              "RelativeToolTip": "ICE_7\\AddBurger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:40:17.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

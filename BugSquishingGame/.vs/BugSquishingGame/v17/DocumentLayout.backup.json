@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{975CD7A2-381B-4021-BDB7-56A6B62028D3}|BugSquishingGame\\BugSquishingGame.csproj|solutionrelative:bugsquishinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BugSquishingGame||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{975CD7A2-381B-4021-BDB7-56A6B62028D3}|BugSquishingGame\\BugSquishingGame.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\bugsquishinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{975CD7A2-381B-4021-BDB7-56A6B62028D3}|BugSquishingGame\\BugSquishingGame.csproj|solutionrelative:bugsquishinggame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -28,7 +31,7 @@
               "RelativeDocumentMoniker": "BugSquishingGame\\Form1.cs",
               "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\BugSquishingGame\\Form1.cs",
               "RelativeToolTip": "BugSquishingGame\\Form1.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T16:23:06.806Z",
               "IsPinned": true,
@@ -40,15 +43,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\BugSquishingGame\\Form1.cs",
               "RelativeDocumentMoniker": "BugSquishingGame\\Form1.cs",
               "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\BugSquishingGame\\Form1.cs [Design]",
               "RelativeToolTip": "BugSquishingGame\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T16:19:37.951Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-23T16:19:37.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugSquishingGame",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\BugSquishingGame\\BugSquishingGame.csproj",
+              "RelativeDocumentMoniker": "BugSquishingGame\\BugSquishingGame.csproj",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\BugSquishingGame\\BugSquishingGame\\BugSquishingGame.csproj",
+              "RelativeToolTip": "BugSquishingGame\\BugSquishingGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-23T18:46:38.359Z"
             }
           ]
         }

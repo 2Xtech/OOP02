@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\strongpasswordgenerator\\progressbarextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|solutionrelative:strongpasswordgenerator\\progressbarextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|c:\\users\\subeet\\source\\repos\\2xtech\\oop02\\strongpasswordgenerator\\strongpasswordgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|solutionrelative:strongpasswordgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\strongpasswordgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F833F37B-3422-485A-AABF-A969BB44204F}|StrongPasswordGenerator\\StrongPasswordGenerator.csproj|solutionrelative:strongpasswordgenerator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "StrongPasswordGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\Form1.cs",
+              "RelativeToolTip": "StrongPasswordGenerator\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:37:43.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgressBarExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\ProgressBarExtensions.cs",
+              "RelativeDocumentMoniker": "StrongPasswordGenerator\\ProgressBarExtensions.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\ProgressBarExtensions.cs",
+              "RelativeToolTip": "StrongPasswordGenerator\\ProgressBarExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T21:52:12.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\Form1.cs",
+              "RelativeDocumentMoniker": "StrongPasswordGenerator\\Form1.cs",
+              "ToolTip": "C:\\Users\\Subeet\\source\\repos\\2Xtech\\OOP02\\StrongPasswordGenerator\\StrongPasswordGenerator\\Form1.cs [Design]",
+              "RelativeToolTip": "StrongPasswordGenerator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:05:42.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

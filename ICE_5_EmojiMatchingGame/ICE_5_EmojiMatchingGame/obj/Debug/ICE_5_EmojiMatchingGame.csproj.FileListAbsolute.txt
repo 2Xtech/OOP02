@@ -1,0 +1,10 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\bin\Debug\ICE_5_EmojiMatchingGame.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\bin\Debug\ICE_5_EmojiMatchingGame.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\bin\Debug\ICE_5_EmojiMatchingGame.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_5_EmojiMatchingGame\ICE_5_EmojiMatchingGame\obj\Debug\ICE_5_EmojiMatchingGame.pdb

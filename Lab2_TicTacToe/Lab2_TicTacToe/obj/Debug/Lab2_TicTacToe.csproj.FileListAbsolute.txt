@@ -1,0 +1,10 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\bin\Debug\Lab2_TicTacToe.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\bin\Debug\Lab2_TicTacToe.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\bin\Debug\Lab2_TicTacToe.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab2_TicTacToe\Lab2_TicTacToe\obj\Debug\Lab2_TicTacToe.pdb

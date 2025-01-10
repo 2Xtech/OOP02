@@ -34,9 +34,9 @@
             this.labelGameTime = new System.Windows.Forms.Label();
             this.panelBugSpawn = new System.Windows.Forms.Panel();
             this.buttonStart = new System.Windows.Forms.Button();
-            this.timerGameTime = new System.Windows.Forms.Timer(this.components);
             this.pictureBoxBlood = new System.Windows.Forms.PictureBox();
             this.pictureBoxBug = new System.Windows.Forms.PictureBox();
+            this.timerGameTime = new System.Windows.Forms.Timer(this.components);
             this.tableLayoutPanel1.SuspendLayout();
             this.panelBugSpawn.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBlood)).BeginInit();
@@ -45,7 +45,7 @@
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.BackColor = System.Drawing.Color.Khaki;
+            this.tableLayoutPanel1.BackColor = System.Drawing.Color.DarkOliveGreen;
             this.tableLayoutPanel1.ColumnCount = 2;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
@@ -84,11 +84,15 @@
             // 
             // panelBugSpawn
             // 
+            this.panelBugSpawn.BackColor = System.Drawing.Color.Red;
             this.panelBugSpawn.BackgroundImage = global::BugSquishingGame.Properties.Resources.BackgroundTexture;
             this.panelBugSpawn.Controls.Add(this.buttonStart);
             this.panelBugSpawn.Controls.Add(this.pictureBoxBlood);
             this.panelBugSpawn.Controls.Add(this.pictureBoxBug);
+            this.panelBugSpawn.Cursor = System.Windows.Forms.Cursors.Default;
             this.panelBugSpawn.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panelBugSpawn.ForeColor = System.Drawing.Color.Red;
+            this.panelBugSpawn.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.panelBugSpawn.Location = new System.Drawing.Point(0, 52);
             this.panelBugSpawn.Name = "panelBugSpawn";
             this.panelBugSpawn.Size = new System.Drawing.Size(800, 398);
@@ -97,12 +101,14 @@
             // 
             // buttonStart
             // 
-            this.buttonStart.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.buttonStart.BackColor = System.Drawing.Color.LawnGreen;
+            this.buttonStart.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonStart.AutoSize = true;
+            this.buttonStart.BackColor = System.Drawing.Color.PaleGoldenrod;
             this.buttonStart.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.buttonStart.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonStart.Font = new System.Drawing.Font("Impact", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonStart.Location = new System.Drawing.Point(338, 137);
+            this.buttonStart.ForeColor = System.Drawing.Color.Black;
+            this.buttonStart.Location = new System.Drawing.Point(338, 136);
             this.buttonStart.Name = "buttonStart";
             this.buttonStart.Size = new System.Drawing.Size(116, 84);
             this.buttonStart.TabIndex = 2;
@@ -110,16 +116,11 @@
             this.buttonStart.UseVisualStyleBackColor = false;
             this.buttonStart.Click += new System.EventHandler(this.buttonStart_Click);
             // 
-            // timerGameTime
-            // 
-            this.timerGameTime.Interval = 1000;
-            this.timerGameTime.Tick += new System.EventHandler(this.TimerGameTime_Tick);
-            // 
             // pictureBoxBlood
             // 
             this.pictureBoxBlood.BackColor = System.Drawing.Color.Transparent;
             this.pictureBoxBlood.Image = global::BugSquishingGame.Properties.Resources.Blood;
-            this.pictureBoxBlood.Location = new System.Drawing.Point(542, 163);
+            this.pictureBoxBlood.Location = new System.Drawing.Point(38, 0);
             this.pictureBoxBlood.Name = "pictureBoxBlood";
             this.pictureBoxBlood.Size = new System.Drawing.Size(32, 32);
             this.pictureBoxBlood.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -130,7 +131,7 @@
             // pictureBoxBug
             // 
             this.pictureBoxBug.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBoxBug.Location = new System.Drawing.Point(374, 177);
+            this.pictureBoxBug.Location = new System.Drawing.Point(0, 0);
             this.pictureBoxBug.Name = "pictureBoxBug";
             this.pictureBoxBug.Size = new System.Drawing.Size(32, 32);
             this.pictureBoxBug.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -138,6 +139,11 @@
             this.pictureBoxBug.TabStop = false;
             this.pictureBoxBug.Visible = false;
             this.pictureBoxBug.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBoxBug_MouseDown);
+            // 
+            // timerGameTime
+            // 
+            this.timerGameTime.Interval = 1000;
+            this.timerGameTime.Tick += new System.EventHandler(this.TimerGameTime_Tick);
             // 
             // Form1
             // 

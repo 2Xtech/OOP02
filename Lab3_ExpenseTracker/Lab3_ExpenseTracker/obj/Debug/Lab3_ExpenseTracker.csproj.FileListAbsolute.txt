@@ -1,0 +1,11 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\bin\Debug\Lab3_ExpenseTracker.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\bin\Debug\Lab3_ExpenseTracker.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\bin\Debug\Lab3_ExpenseTracker.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\Lab3_ExpenseTracker\Lab3_ExpenseTracker\obj\Debug\Lab3_ExpenseTracker.AddExpense.resources

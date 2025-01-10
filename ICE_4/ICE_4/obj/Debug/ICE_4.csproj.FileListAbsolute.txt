@@ -1,0 +1,10 @@
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\bin\Debug\ICE_4.exe.config
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\bin\Debug\ICE_4.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\bin\Debug\ICE_4.pdb
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.csproj.AssemblyReference.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.Form1.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.Properties.Resources.resources
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.csproj.GenerateResource.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.csproj.CoreCompileInputs.cache
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.exe
+C:\Users\Subeet\source\repos\2Xtech\OOP02\ICE_4\ICE_4\obj\Debug\ICE_4.pdb
